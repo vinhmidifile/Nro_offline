@@ -92,16 +92,16 @@ git clone https://github.com/Datbao47005/NRO_OFFLINE && cd NRO_OFFLINE && python
 ```
 hhh
 
-```
-cd NRO_OFFLINE && python image.py && python setup.py && python dragon py
-```
+
+
+
 
 ### Installation
 
 ![Screen Shot](images/screenshot4.png)
 
 ```
-cd NRO_OFFLINE && python dragon.py
+python dragon.py
 ``` 
 
 2 - Choose 1 and  Wait for install!
