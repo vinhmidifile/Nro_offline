@@ -1,158 +1,120 @@
-<br/>
-<p align="center">
-  <a href="https://github.com/Mad-Neko/Nro-Offline">
+# Nro_ofline
 
-  <p align="center">
-    Ngọc Rồng Offline là Trò Chơi Ngoại Tuyến với cốt truyện xoay quanh bộ truyện tranh 7 viên Ngọc Rồng. Người choi sẽ hoá thân thành 1 trong 3 hành tinh theo chính mình để đánh lại những kẻ tàn accs.
-    <br/>
-    <br/>
-    <a href="https://github.com/Mad-Neko/Nro-Offline"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/Mad-Neko/Nro-Offline">View Demo</a>
-    .
-    <a href="https://github.com/Mad-Neko/Nro-Offline/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Mad-Neko/Nro-Offline/issues">Request Feature</a>
-  </p>
+<h1 align="center">Welcome to DragonBoy_Termux 👋</h1>
+<img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage0.png" />
+<img alt="Homepage" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/Homepage1.png" />
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-11-blue.svg?cacheSeconds=2592000" />
+  <img alt="Update" src="https://img.shields.io/badge/update-01/06/2023-blue.svg?cacheSeconds=2592000" />
+  <br />
+  <img alt="Build Status" src="https://cloud.drone.io/api/badges/KhanhNguyen9872/DragonBoy_Termux/status.svg" />
+
+  <a href="https://github.com/KhanhNguyen9872/DragonBoy_Termux#" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/KhanhNguyen9872/DragonBoy_Termux/blob/main/LICENSE" target="_blank">
+    <img alt="License: KhanhNguyen9872" src="https://img.shields.io/badge/License-KhanhNguyen9872-yellow.svg" />
+  </a>
+  <br />
+  <img alt="Github Download" src="https://img.shields.io/github/downloads/KhanhNguyen9872/DragonBoy_Termux/total.svg?style=for-the-badge" />
+  <img alt="Github Releases" src="https://img.shields.io/github/release/KhanhNguyen9872/DragonBoy_Termux.svg?style=for-the-badge" />
 </p>
-
-![Downloads](https://img.shields.io/github/downloads/Mad-Neko/Nro-Offline/total) ![Contributors](https://img.shields.io/github/contributors/Mad-Neko/Nro-Offline?color=dark-green) ![Forks](https://img.shields.io/github/forks/Mad-Neko/Nro-Offline?style=social) ![Stargazers](https://img.shields.io/github/stars/Mad-Neko/Nro-Offline?style=social) ![Issues](https://img.shields.io/github/issues/Mad-Neko/Nro-Offline) 
-
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
-
-## About The Project
-
-![Screen Shot](images/screenshot.png)
-
-- Action category, Role. Direct control action figure. Easy to play, easy to control character. Sharp graphics. High graphics version for mobile phones and reliable pixel version for low profile machines.
-
-![Screen Shot](images/screenshot1.png)
-- Plot Close to original . Players will face all the characters from Bunma, Master Roshi, Jacky-chun, Tau PAY PAY ... to Fide, Pic, POC, Xen, Broly, Bojack team.
-
-![Screen Shot](images/screenshot2.png)
-- Best Features: Join hit barracks independent label. Join martial arts congress. Join the hunt for the dragon balls to bring the pact yourself.
-
-![Screen Shot](images/screenshot3.png)
-- Available on all in the market today Namely: PC Computers, Nokia Java Phones, Android, iPhone, Windows Phone and Android tablets, iPad.
-
-## Built With
-
-NRO Server on Termux Android
-
-## Getting Started
-
- - Download APK (click on Picture): 
-<a href="https://download.apkcombo.com/com.termux/Termux_0.119.1_apkcombo.com.apk?ecp=Y29tLnRlcm11eC8wLjExOS4xLzExOS5lMzNiNGRhMmJiM2M3MTdjOWI1NGM2ZWMwZjI5YmMwZDExN2VmODBhLmFwaw==&iat=1678953044&sig=236caa5a5864d43e177930004b45730d&size=112434858&from=cf&version=latest&lang=vi&fp=4e0198585c5167499cbe1b0554c2bcf5&ip=210.245.51.174" target="_blank"><img alt="Termux" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/termux.png" />
+<a href="https://twitter.com/Khnh59855418" target="_blank">
+    <img alt="Twitter: khanh9872" src="https://img.shields.io/twitter/follow/Khnh59855418.svg?style=social" />
 </a>
 
-- Download phpMyadmin APK (click on Picture): 
-<a href="https://www.mediafire.com/file/ktta98qjyi92obk/gojo.zip/file" target="_blank"><img alt="sql" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/sql.png" />
-
+<a href="https://github.com/KhanhNguyen9872" target="_blank">
+    <img alt="Follow Total" src="https://img.shields.io/github/followers/KhanhNguyen9872?style=social" />
 </a>
 
-
-- Install Termux and phpMyadmin
-
-- Download NRO-OFFLINE APK (click on Picture): 
-<a href="https://www.mediafire.com/file/ktta98qjyi92obk/gojo.zip/file" target="_blank"><img alt="apk" src="https://github.com/Mad-Neko/Nro-Offline/blob/main/icon/nro.png" />
-
+<a href="https://github.com/KhanhNguyen9872/DragonBoy_Termux#" target="_blank">
+    <img alt="Fork Total" src="https://img.shields.io/github/forks/KhanhNguyen9872/DragonBoy_Termux?style=social" />
 </a>
 
+<a href="https://github.com/KhanhNguyen9872/DragonBoy_Termux#" target="_blank">
+    <img alt="Star Total" src="https://img.shields.io/github/stars/KhanhNguyen9872/DragonBoy_Termux?style=social" />
+</a>
 
-### Prerequisites
+> DragonBoy Server on Termux Android
 
-This is an example of how to list things you need to use the software and how to install them.
+### 🏠 [Homepage](https://khanhnguyen9872.github.io/DragonBoy_Termux#)
 
-* Open Termux, copy this line and paste it on Termux
+### ✨ [Video & Screenshot](https://github.com/KhanhNguyen9872/DragonBoy_Termux/blob/main/DEMO.md)
 
+## Lệnh Admin
 ```
-termux-setup-storage && apt update && apt upgrade && pkg install php && pkg install git && pkg install zip && pkg install python-pip && pip install wget && pip install requests &&  pkg install openjdk-17 -y -y 
+heloem
 ```
-Git Clone1
-```
+
+## Install
+ - Tutorial: [Youtube](https://youtu.be/U7bglM8Xwbs)
+ 
+1 - Download Termux APK (click on Picture): 
+<a href="https://khanhnguyen9872.github.io/DragonBoy_Termux/CONF_FILE/termux_0.118.apk" target="_blank">
+    <img alt="Termux" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/raw/main/image/termux.png" />
+</a>
+
+2 - Install Termux APK
+
+3 - Open Termux, copy this line and paste it on Termux
+
+```bash
 function install () {
   clear; curl -L --max-redirs 15 --progress-bar "https://khanhnguyen9872.github.io/DragonBoy_Termux/script_install.sh" --output script_install.sh && bash script_install.sh || echo "Internet ERROR"; unset install
 }
 install
 ```
-Git Clone2
-```
-git clone https://github.com/Datbao47005/NRO_OFFLINE && cd NRO_OFFLINE && python image.py && python setup.py && python dragon py
-```
-hhh
 
-
-
-
-
-### Installation
-
-![Screen Shot](images/screenshot4.png)
-
-```
-python dragon.py
-``` 
-
-2 - Choose 1 and  Wait for install!
+4 - Wait for install!
  
-3 -  Choose 2 run server!
+5 - Choose Source you want to use! 
  
-4 - Enjoy!
+6 - Enjoy!
 
+## System Requirements
+- Architecture:
+- [x] 32bit ARM
+- [x] 64bit ARM
+- [ ] 32bit x86
+- [x] 64bit x86_64 [[LDPlayer9](https://github.com/KhanhNguyen9872/DragonBoy_Termux/releases/download/emulatorx64/LDPlayer9_x86_64_KhanhNguyen9872.exe)]
 
-## Usage
+- Android:
+- [x] 7
+- [x] 8
+- [x] 9
+- [x] 10
+- [x] 11
+- [x] 12 [Need Fix]
+- [x] 13 [Need Fix]
+- [x] 14 [Need Fix]
 
-1. Sign up account
+## Download Emulator (x86_64)
 
-- You can sign up for a free account right in the game or on the Localhost site.
+<a href="https://github.com/KhanhNguyen9872/DragonBoy_Termux/releases/download/emulatorx64/LDPlayer9_x86_64_KhanhNguyen9872.exe" target="_blank">
+    <img alt="LDPlayer9" src="https://github.com/KhanhNguyen9872/DragonBoy_Termux/blob/main/image/ldplayer9.ico?raw=true" width="150" height="150" />
+</a>
 
-2. Some basic information
+- [LDPlayer9](https://github.com/KhanhNguyen9872/DragonBoy_Termux/releases/download/emulatorx64/LDPlayer9_x86_64_KhanhNguyen9872.exe)
 
-- Senzu bean is used to increase KI and HP.
-- You can only bring 10 seeds, if you want to bring more, please ask someone in your clan.
-- To increase your abilities and skills, you can register for free training at Master Kame, if you have enough potential points.
-- You cannot use flying skills if all KI is used up.
-- Big raid with friends will add more hit points and potential.
-- Practice with friends in the right area will bring more potential.
-- When the bean is upgraded, the bean will recover more HP and KI.
-- On regular match days, if you win you can get free gems.
-- Chicken thighs will recover 100% HP KI. Tomato recovers 100% KI. Carrot recovers 100% HP.
-- The Senzu bean tree continues to bear fruit after a while, even if you are offline.
-- After 3 days of not participating in the game, you will reduce strength training.
-- You will reduce your strength if you are killed by enemies or monsters, but will increase your stamina to fight again.
+## Author
 
+👤 **KhanhNguyen9872**
 
-## Contributing
+* Website: KhanhNguyen9872.github.io
+* Twitter: [@Khnh59855418](https://twitter.com/Khnh59855418)
+* Github: [@KhanhNguyen9872](https://github.com/KhanhNguyen9872)
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Mad-Neko/Nro-Offline/issues/new) to discuss it, or directly create a pull request after you edit the server with necessary changes.
-* Please make sure you check your spelling and grammar.
-* Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/Mad-Neko/Nro-Offline/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+## 🤝 Contributing
 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/KhanhNguyen9872/DragonBoy_Termux/issues). You can also take a look at the [contributing guide](https://github.com/KhanhNguyen9872/DragonBoy_Termux/blob/main/README.md).
 
-## Authors
+## Show your support
 
-* **MAD** - *Dev* - [MAD](https://github.com/Mad-Neko/) - *Nro Offline Termux*
-* **** - ** - []() - **
-* **** - ** - []() - **
+Give a ⭐️ if this project helped you!
 
-## Acknowledgements
+## 📝 License
 
-* [NRO Offline ](https://github.com/Mad-Neko/Nro-Offline)
-* [NSO Offline](coming soon)
-* [HSO Offline](coming soon)
+Copyright © 2022 [KhanhNguyen9872](https://github.com/KhanhNguyen9872).<br />
+This project is [KhanhNguyen9872](https://github.com/KhanhNguyen9872) licensed.
 
-
-  
+***
